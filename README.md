@@ -1,5 +1,7 @@
 # mapa-de-habilidades
 Minhas habilidades técnicas, criativas e comportamentais. Depos, fiz um cruzamento com as necessidades do mercado.
+
+
 Sobre o Projeto
 Este repositório documenta meu Mapa de Habilidades Estratégicas , desenvolvido como parte do desafio da Digital Innovation One (DIO). O objetivo é realizar um mapeamento abrangente de competências, cruzando habilidades existentes com as demandas de mercado e identificando oportunidades concretas de monetização e crescimento na carreira.
 
