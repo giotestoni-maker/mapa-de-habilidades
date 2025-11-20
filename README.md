@@ -3,6 +3,8 @@ Minhas habilidades técnicas, criativas e comportamentais. Depos, fiz um cruzame
 Sobre o Projeto
 Este repositório documenta meu Mapa de Habilidades Estratégicas , desenvolvido como parte do desafio da Digital Innovation One (DIO). O objetivo é realizar um mapeamento abrangente de competências, cruzando habilidades existentes com as demandas de mercado e identificando oportunidades concretas de monetização e crescimento na carreira.
 
+[Mapa de habilidades (1).pdf](https://github.com/user-attachments/files/23640826/Mapa.de.habilidades.1.pdf)
+
 # Perfil Profissional
 Profissional multidisciplinar com expertise em Marketing Digital, Gestão de Tráfego Pago, Copywriting, Design de Criativos e Programação aplicada. Forte atuação em soluções digitais que unem estratégia de comunicação, tecnologia e inteligência artificial para potencializar resultados de negócios.
 
